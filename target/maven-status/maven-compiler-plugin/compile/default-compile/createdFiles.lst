@@ -1,0 +1,3 @@
+com/hello/hadoopstudy/mapreduce/WCMapper.class
+com/hello/hadoopstudy/mapreduce/WCReduce.class
+com/hello/hadoopstudy/WordCount.class
